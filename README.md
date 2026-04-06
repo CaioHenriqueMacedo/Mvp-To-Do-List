@@ -51,13 +51,13 @@ lib/
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/CaioHenriqueMacedo/Mvp-To-Do-List.git
 ```
 
 2. Acesse a pasta do projeto:
 
 ```bash
-cd nome-do-projeto
+cd Mvp-To-Do-List
 ```
 
 3. Instale as dependências:
